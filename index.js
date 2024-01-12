@@ -46,6 +46,7 @@
           TranslWork29: "Strengthen interpersonal skills by establishing strong connections with the customer to facilitate the seller-customer relationship",
 
           TranslSkill1: "Skills",
+          TranslSkill2: "Arabic",
 
           TranslInt0: "Interests and Hobbies",
           TranslInt1: "Calisthenics",
@@ -112,6 +113,7 @@
           TranslWork29: "Renforcer les compétences relationnelles en établissant des liens solides avec le client pour faciliter la relation vendeur-client",
 
           TranslSkill1: "Atouts",
+          TranslSkill2: "Arabe",
 
           TranslInt0: "Intérêts et passions",
           TranslInt1: "Calisthénie",
@@ -120,7 +122,7 @@
           TranslInt4: "Pour moi, la langue est un art et, sans être pédant, j'aime exercer tout le potentiel inexploité du vocabulaire français et anglais. Tant de mots inutilisés!",
           TranslInt5: "Club de formule SAE",
           TranslInt6: "Bien que mon intégration dans ce club soit récente, j'ai fouillé le plus de documentation possible, assimilant le plus de détails possible. J'ai même suivi un cours d'ingénierie automobile! Je suis actuellement dans l'équipe électrique.",
-          TranslInt7: "Apprendtissage du japonais<br>日本語を勉強する",
+          TranslInt7: "Apprentissage du japonais<br>日本語を勉強する",
           TranslInt8: "こんにちは! - J'aime apprendre de nouvelles langues. L'un de mes objectifs est d'être polyglotte, et pour marquer le début de mon parcours linguistique, j'ai commencé à apprendre le japonais. Je connais quelques centaines de kanjis maintenant!",
           TranslInt9: "Dessin",
           TranslInt10: "J'apprécie également le dessin, un excellent moyen de matérialiser mes inspirations. Les vaisseaux spatiaux sont étonnamment faciles à dessiner!",
