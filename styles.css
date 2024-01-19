@@ -654,6 +654,24 @@ button:hover{
     }
 }
 
+@media (min-width: 1201px) and (max-width: 1400px){
+  .interests>li{
+    padding: 0;
+  }
+}
+
+@media (min-width: 1201px) and (max-width: 1250px){
+  .skill-grid{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;  }
+}
+
+@media (min-width: 800px) and (max-width: 900px){
+  .skill-grid{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;  }
+}
+
 
 /* For Chrome, Safari, and newer Edge */
 /* The following styles are just examples; feel free to customize as needed */
