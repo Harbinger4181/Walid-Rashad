@@ -345,6 +345,7 @@ p{
   background-color:#eb34c6;
   opacity: 70%;
   border: 2px solid aqua;
+  z-index: 2;
 }
 
 .navbar>button{
@@ -766,4 +767,41 @@ button:hover{
 /* Handle when dragged */
 ::-webkit-scrollbar-thumb:active {
   background-color: #1f618d; /* Change the color when the handle is active/dragged */
+}
+
+img {
+  transition: transform 0.3s;
+  z-index: 1;
+}
+
+/* Apply a scale transform when hovering */
+img:hover {
+  transform: scale(1.1); /* You can adjust the scale factor as needed */
+}
+
+button {
+  transition: transform 0.3s;
+}
+
+/* Apply a scale transform when hovering */
+button:hover {
+  transform: scale(1.1); /* You can adjust the scale factor as needed */
+}
+
+a {
+  transition: transform 0.3s;
+}
+
+/* Apply a scale transform when hovering */
+a:hover {
+  transform: scale(1.1); /* You can adjust the scale factor as needed */
+}
+
+#intro img {
+  transition: transform 0.3s;
+}
+
+/* Apply a scale transform when hovering */
+#intro img:hover {
+  transform: scale(1.05); /* You can adjust the scale factor as needed */
 }
