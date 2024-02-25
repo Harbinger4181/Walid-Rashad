@@ -47,6 +47,7 @@
 
           TranslSkill1: "Skills",
           TranslSkill2: "Arabic",
+          TranslSkill3: "Subleq Language",
 
           TranslInt0: "Interests and Hobbies",
           TranslInt1: "Calisthenics",
@@ -114,6 +115,7 @@
 
           TranslSkill1: "Atouts",
           TranslSkill2: "Arabe",
+          TranslSkill3: "Langage Subleq",
 
           TranslInt0: "Intérêts et passions",
           TranslInt1: "Calisthénie",
