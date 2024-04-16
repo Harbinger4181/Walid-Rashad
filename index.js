@@ -84,13 +84,13 @@
           TranslWork2: "Garde Côtière Canadienne (GCC)",
           TranslWork3: "La Garde côtière canadienne est un ministère fédéral qui supervise la conception et la conception de la flotte canadienne. Il vise à protéger l’écosystème maritime et la souveraineté navale du Canada.",
           TranslWork4: "Aider à la construction et à la mise à jour de l'infrastructure électrique des navires",
-          TranslWork5: "Explorez des sujets de recherche autour des énergies renouvelables et des sources d'énergie potentielles pour les futurs navires",
+          TranslWork5: "Explorer des sujets de recherche autour des énergies renouvelables et des sources d'énergie potentielles pour les futurs navires",
           TranslWork6: "Analyser et valider des documents officiels tout en découvrant de nouveaux concepts",
-          TranslWork7: "Discutez de diverses avancées dans une multitude de projets avec le groupe d'ingénierie de la GCC",
+          TranslWork7: "Discuter de diverses avancées dans une multitude de projets avec le groupe d'ingénierie de la GCC",
                     
           TranslWork8: "Bombardier Aviation est une entreprise leader sur le marché des jets privés, fabriquant des avions pour des clients de premier plan depuis des décennies. J'ai travaillé dans l'équipe Compatibilité Electromagnétique (CEM).",
           TranslWork9: "Contribuer à la validation/développement d'outils pour simuler et analyser les données CEM",
-          TranslWork10: "Utilisez un logiciel CEM tel qu'Altair Feko pour simuler les interférences électromagnétiques entre les câbles et l'efficacité du blindage anti-interférence",
+          TranslWork10: "Utiliser un logiciel CEM tel qu'Altair Feko pour simuler les interférences électromagnétiques entre les câbles et l'efficacité du blindage anti-interférence",
           TranslWork11: "Analyser les données et tester les résultats des projets de recherche en cours",
           TranslWork12: "Participer à des réunions et conférences de partage de connaissances avec l’équipe EMC",
 
