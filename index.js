@@ -34,6 +34,13 @@
           TranslWork18: "Present a tutorial to other staff members on new mapping functionalities",
           TranslWork19: "Involvement in Charitable Campaign as an ambassador - organize fundraising activities to incite donations",
 
+          TranslWork13a: "Teaching Assistant - Integrated Control Systems (ELG4159)",
+          TranslWork14a: "Under professor Basim Hafidh for the ELG4159 class at the University of Ottawa. Enrolled due to excellent grades and knowledge in class subjects. Microcontroller used: PIC16F917",
+          TranslWork15a: "Program and debug PICDEM mechatronic boards using Microchip PIC16F917 microprocessors",
+          TranslWork16a: "Supervise and execute lab sessions for students",
+          TranslWork17a: "Correct lab work and exams",
+          TranslWork18a: "Mentor students in reasonable and engaging manners",
+
           TranslWork20: "Additional Work Experience",
           TranslWork21: "Groupe Vertdure Outaouais - Direct Seller",
           TranslWork22: "Cooperate with other employees and divide areas to cover",
@@ -102,6 +109,13 @@
           TranslWork18: "Présenter un tutoriel aux autres membres du personnel sur les nouvelles fonctionnalités de cartographie",
           TranslWork19: "Implication dans une campagne caritative en tant qu'ambassadeur - organiser des activités de collecte de fonds pour inciter aux dons",
 
+          TranslWork13a: "Assisant à l'enseignement - Systèmes de contrôle intégrés (ELG4159)",
+          TranslWork14a: "Sous la supervision du professeur Basim Hafidh pour le cours ELG4159 à l'University d'Ottawa. Engagé grâce à d'excellentes notes et une expérience incomparable dans la matière. Microcontrôleur utilisé: PIC16F917",
+          TranslWork15a: "Programmer et 'debug' les cartes 'PICDEM mechatronic boards' utilisant des microprocesseurs PIC16F917",
+          TranslWork16a: "Superviser et exécuter les sessions de laboratoire pour les étudiants",
+          TranslWork17a: "Correction des travaux de laboratoire et des examens",
+          TranslWork18a: "Mentorer les étudiants de manière raisonnable et engageante",
+
           TranslWork20: "Expérience de travail supplémentaire",
           TranslWork21: "Groupe Vertdure Outaouais - Vendeur direct",
           TranslWork22: "Coopérer avec les autres employés et diviser les zones à couvrir",
@@ -125,7 +139,7 @@
           TranslInt5: "Club de formule SAE",
           TranslInt6: "Bien que mon intégration dans ce club soit récente, j'ai fouillé le plus de documentation possible, assimilant le plus de détails possible. J'ai même suivi un cours d'ingénierie automobile! Je suis actuellement dans l'équipe électrique.",
           TranslInt7: "Apprentissage du japonais<br>日本語を勉強する",
-          TranslInt8: "こんにちは! - J'aime apprendre de nouvelles langues. L'un de mes objectifs est d'être polyglotte, et pour marquer le début de mon parcours linguistique, j'ai commencé à apprendre le japonais. Je connais quelques centaines de kanjis maintenant!",
+          TranslInt8: "こんにちは! - J'aime apprendre de nouvelles langues. L'un de mes objectifs est d'être polyglotte, et pour marquer le début de mon parcours linguistique, j'ai commencé à apprendre le japonais. Je connais des centaines de kanjis maintenant!",
           TranslInt9: "Dessin",
           TranslInt10: "J'apprécie également le dessin, un excellent moyen de matérialiser mes inspirations. Les vaisseaux spatiaux sont étonnamment faciles à dessiner!",
 
