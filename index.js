@@ -69,8 +69,8 @@
           TranslInt10: "I also enjoy drawing, a great way to materialize my inspirations. Spaceships are surprisingly easy to draw!",
 
           TranslCont1: "Contact Me",
-          TranslCont2: "Email -><br>wrash014@uottawa.ca",
-          TranslCont3: "Cellphone -><br>819-918-3404",
+          TranslCont2: "Email -><br>walid.rashad019@outlook.com",
+          TranslCont3: "Cellphone -><br>873-456-3726",
           TranslCont4: "Landline -><br>819-773-3085",
           TranslCont5: 'Linkedin Profile -><br><a href="https://www.linkedin.com/in/walid-rashad-a644201b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByVJnXF2pR0G3CZvHJh4sJw%3D%3D"><img src="./Images/LinkedIn_Logo.png" alt="Linkedin Logo" height="40px"></a>',
 
@@ -144,8 +144,8 @@
           TranslInt10: "J'apprécie également le dessin, un excellent moyen de matérialiser mes inspirations. Les vaisseaux spatiaux sont étonnamment faciles à dessiner!",
 
           TranslCont1: "Contactez-moi",
-          TranslCont2: "Courriel -><br>wrash014@uottawa.ca",
-          TranslCont3: "Cellulaire -><br>819-918-3404",
+          TranslCont2: "Courriel -><br>walid.rashad019@outlook.com",
+          TranslCont3: "Cellulaire -><br>873-456-3726",
           TranslCont4: "Téléphone fixe -><br>819-773-3085",
           TranslCont5: 'Profil Linkedin -><br><a href="https://www.linkedin.com/in/walid-rashad-a644201b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByVJnXF2pR0G3CZvHJh4sJw%3D%3D"><img src="./Images/LinkedIn_Logo.png" alt="Linkedin Logo" height="40px"></a>',
 
